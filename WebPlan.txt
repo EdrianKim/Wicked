@@ -1,0 +1,34 @@
+Navigation Bar
+- Home
+- About Us
+- Donate
+- How to Play
+- Join our Discord
+
+
+Home (Home page)
+1. Introduction to the server
+2. Server motto
+3. Join our Discord (button)
+4. About Us (button)
+5. How to Play (button)
+
+About Us
+1. Short introduction about the server.
+2. Server Owner/Founder
+3. Server Developer
+4. Staff Roster
+5. Join our Discord (button)
+6. How to Play (button)
+
+Donate
+1. Donation List
+2. Payment Methods
+3. Join our Discord to Donate.
+
+How to Play
+1. Mobile Youtube tutorial (Button to YT Link)
+2. PC Youtube tutorial (Button to YT Link)
+
+Join our Discord
+1. Link to Discord
